@@ -9,8 +9,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<scm>
 		<connection>scm:git:git@github.com:patrickvanamstel/Cassandra-Tutorial-1.git</connection>
-		<url>scm:git:git@github.com:patrickvanamstel/Cassandra-Tutorials-1.git</url>
-		<developerConnection>scm:git:git@github.com:patrickvanamstel/Cassandra-Tutorials-1.git</developerConnection>
+		<url>scm:git:git@github.com:patrickvanamstel/Cassandra-Tutorial-1.git</url>
+		<developerConnection>scm:git:git@github.com:patrickvanamstel/Cassandra-Tutorial-1.git</developerConnection>
   	</scm>
 	
 	<dependencies>
