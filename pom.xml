@@ -7,10 +7,10 @@
 	<groupId>Cassandra-Tutorial-1</groupId>
 	<artifactId>Cassandra-Tutorial-1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	 <scm>
-		<connection>scm:git:git@github.com:patrickvanamstel/Cassandra-Tutorials.git</connection>
-		<url>scm:git:git@github.com:patrickvanamstel/Cassandra-Tutorials.git</url>
-		<developerConnection>scm:git:git@github.com:patrickvanamstel/Cassandra-Tutorials.git</developerConnection>
+	<scm>
+		<connection>scm:git:git@github.com:patrickvanamstel/Cassandra-Tutorial-1.git</connection>
+		<url>scm:git:git@github.com:patrickvanamstel/Cassandra-Tutorials-1.git</url>
+		<developerConnection>scm:git:git@github.com:patrickvanamstel/Cassandra-Tutorials-1.git</developerConnection>
   	</scm>
 	
 	<dependencies>
