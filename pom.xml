@@ -52,6 +52,12 @@
 				</configuration>
 			</plugin>
 			<plugin>
+				<!-- 
+					mvn release:prepare
+ 					mvn release:perform -Dgoals=
+ 					
+ 					Todo a release without distribution
+				 -->
     			<groupId>org.apache.maven.plugins</groupId>
     			<artifactId>maven-release-plugin</artifactId>
     			<version>2.2.2</version>
